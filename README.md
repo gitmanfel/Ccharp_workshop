@@ -1,4 +1,4 @@
-# Ccharp_workshop
+# Csharp_workshop
 
 Dans ce Workshop, nous allons découvrir ce qu'est le C#, son histoire et son rapport avec le framework .NET. 
 
